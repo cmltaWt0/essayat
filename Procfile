@@ -1,0 +1,1 @@
+web: gunicorn essayat.wsgi --log-file -

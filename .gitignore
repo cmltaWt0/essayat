@@ -1,0 +1,8 @@
+*.sublime-workspace
+staticfiles
+__pycache__
+venv
+*.pyc
+*.tmp
+*.sqlite3
+*.db
